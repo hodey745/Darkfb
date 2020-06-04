@@ -4,7 +4,7 @@
 3. pkg install git
 4. pkg install python2
 5. pip2 install --upgrade pip
-6. pip2 install -r requirements.txt
-7. git clone https://github.com/hodey745/darkfb
+6. git clone https://github.com/hodey745/darkfb
+7. pip2 install -r requirements.txt
 8. cd darkfb
 9. python2 newfb.py
