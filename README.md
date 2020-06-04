@@ -7,4 +7,4 @@
 6. pip2 install -r requirements.txt
 7. git clone https://github.com/hodey745/darkfb
 8. cd darkfb
-9. 
+9. python2 newfb.py
